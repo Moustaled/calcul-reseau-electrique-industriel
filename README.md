@@ -9,7 +9,7 @@ Projet de **relecture, de vérification et de mise en forme pédagogique** à l'
 - **Thomas DHUNARA**
 - **Mariel FRESNEL**
 
-> **Statut : étude documentaire à compléter.** Ce dossier reprend des documents techniques de référence provenant d'un autre projet (2023). Les plans et les chiffres existants ne sont pas des réalisations originales du groupe et n'ont pas été validés pour l'exécution.
+
 
 ## Présentation
 
