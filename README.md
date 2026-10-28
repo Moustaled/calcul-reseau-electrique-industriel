@@ -70,15 +70,15 @@ Les schémas sont des **reproductions pédagogiques anonymisées** : les cartouc
 
 Les documents d'origine ayant une fonction administrative, de signature ou d'identification n'ont pas été transformés en attestations au nom du groupe. Le volumineux rapport DIALux en langue source et les fichiers AutoCAD d'origine ne sont pas redistribués dans cette version : leur réutilisation demanderait un contrôle supplémentaire.
 
-## Travaux à effectuer par le groupe
+## Travaux  effectuer par le groupe
 
 1. Vérifier les puissances et les facteurs de simultanéité dans le fichier Excel.
-2. Refaire les calculs des courants à partir des puissances et tensions retenues.
+2. faire les calculs des courants à partir des puissances et tensions retenues.
 3. Justifier les sections de câbles, les conditions de pose, les chutes de tension et la protection des personnes.
 4. Examiner les courants de court-circuit, les pouvoirs de coupure et la sélectivité.
 5. Produire une version propre des schémas et une note finale présentant uniquement les contributions effectivement réalisées par le groupe.
 
-**Outils présents dans les documents source :** Excel, AutoCAD et DIALux. Leur utilisation par notre groupe reste à documenter selon les travaux réellement effectués.
+**Outils présents dans les documents source :** Excel, AutoCAD et DIALux
 
 ## Contact
 
