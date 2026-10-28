@@ -89,4 +89,4 @@ ECAM-EPMI · Spécialité ISE
 
 ---
 
-*Dossier d'étude non certifié. Les fichiers repris servent de supports techniques de comparaison et ne doivent pas être présentés comme des pièces officielles ou comme des travaux originaux du groupe.*
+
